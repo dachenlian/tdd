@@ -11,6 +11,8 @@ django = "*"
 selenium = "*"
 pytest = "*"
 pylint-django = "*"
+django-extensions = "*"
+ipython = "*"
 
 [requires]
 python_version = "3.7"
